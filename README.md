@@ -11,8 +11,8 @@ Using Terraform to create a resource group, a virtual network, a subnet, an inte
 
 The main Commands: 
 
-- terraform init
-- terraform validate
-- terraform plan
-- terraform apply
-- terraform destroy
+- terraform `init`
+- terraform `validate`
+- terraform `plan`
+- terraform `apply`
+- terraform `destroy`
