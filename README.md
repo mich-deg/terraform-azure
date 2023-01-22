@@ -9,10 +9,12 @@ Using Terraform to create a resource group, a virtual network, a subnet, an inte
 - Creating an internal network interface (NIC)
 - Creating a Windows virtual machine
 
-The main Commands: 
+The main commands: 
 
 - terraform `init`
 - terraform `validate`
 - terraform `plan`
 - terraform `apply`
 - terraform `destroy`
+
+[HashiCorp Terraform](https://www.terraform.io/)
