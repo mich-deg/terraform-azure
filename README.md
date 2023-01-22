@@ -1,6 +1,6 @@
 # Terraform-Azure
 
-Using Terraform to create a resource group, a virtual network, a subnet, an internal network interface, and more. 
+Using Terraform to create a resource group, a virtual network, a subnet, an internal network interface, and more. Refer to [HashiCorp Terraform](https://www.terraform.io/).
 
 - Adding Terraform provider
 - Creating an Azure resource group
@@ -16,5 +16,3 @@ The main commands:
 - terraform `plan`
 - terraform `apply`
 - terraform `destroy`
-
-[HashiCorp Terraform](https://www.terraform.io/)
